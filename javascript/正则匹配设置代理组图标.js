@@ -3,7 +3,7 @@
 const iconMap = [
   {
     reg: /Google/,
-    url: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png",
+    url: "https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png",
   },
   // 参考上面的格式在这里添加更多条目
 ];
